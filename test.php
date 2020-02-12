@@ -1,15 +1,1 @@
-aaaa
-aaasa
-aaaaa
-ddddcccccc
-bbbbbbbbbbbbbbbbbbb
-ssssss
-ggg
-ggggg
-hhh
-ddd
-ffff
-kk
-hhh
-h
-gg
+ll
